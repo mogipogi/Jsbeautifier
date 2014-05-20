@@ -1,5 +1,6 @@
 Jsbeautifier
 ============
+Added a simple GUI for the Jsbeautifier
 
 Beautifier for javascript
 
